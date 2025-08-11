@@ -61,7 +61,7 @@ We welcome:
 - Sound designers
 - Programmers
 - Writers
-
+- or if you would like to just add a further comment
 If you’d like to contribute, please open an issue or contact us via [email/contact info].
 
 ---
@@ -83,3 +83,5 @@ If you’d like to contribute, please open an issue or contact us via [email/con
 
 ### 🦇 Gotham needs you.
 
+
+Email and contact info:
